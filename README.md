@@ -1,16 +1,16 @@
-- 👋 Hi, I’m @ReeceKindon, a software developer based in Birmingham, UK.  
+- 👋 Hi, I’m @ReeceKindon, a tech lead/senior software developer based in Birmingham, UK.  
 
-- 👀 I’m experienced in a wide variety of tech: 
+- 👀 I’m experienced in a wide variety of technologies: 
   - Event-Driven Architecture (Kafka, MQTT, CQRS)
   - Cloud Solutions (Azure, AWS, K8's, Netlify, ElasticCloud)
   - Microservices (C#, .NET), 
   - Functions (Lambda, JS), 
   - NoSQL (CosmosDB, Cassandra, DynamoDB)
-  - UI (ReactJS, Redux, VueJS, Vuex, SASS)
+  - UI (ReactJS, Redux, Angular, VueJS, Vuex, SASS)
   - TDD (NUnit, Moq, Cypress)
   - E-Commerce (Shopify). 
   
-- 🌱 I’m currently learning: MQTT, VueJS.
+- 🌱 I’m currently learning: React Native, MQTT, Nuxt, Tailwind, Strapi.
   - I want to learn: Blockchain, IoT, AI, ML. 
   
 - 📫 How to reach me: reecekindon@gmail.com
